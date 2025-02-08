@@ -1,2 +1,1 @@
-# Futuremindinfotech
-software training institute
+futuremind
